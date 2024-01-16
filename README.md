@@ -1,5 +1,7 @@
 # Aiports
 INDIVIDUAL_PROJECT
+Use guide; Press Run to each cell of each point and you will be able to see the results of the same.
+Conclusion.
 In summary, the project addressed data loading, cleaning, statistical exploration and visualization, identification and treatment of unusual and null values, as well as exporting specific results. Tools such as Pandas, Matplotlib and Seaborn were used to perform airport data analysis and visualization.
 
   In conclusion, the project's analysis of airport data effectively addressed several key stages of the data lifecycle. From initial loading and cleaning of the data set to statistical exploration, identification and treatment of unusual and null values, as well as visualization of results.
